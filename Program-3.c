@@ -6,7 +6,7 @@ int main()
     //correct the code
     double a,b,product;
     printf("enter two numbers:");
-    scanf("%lf%lf",a,b);  //correct the code
+    scanf("%lf%lf",&a,&b);  //correct the code
      // Calculating product
     product = a * b;
     // Result up to 2 decimal point is displayed using %.2lf
